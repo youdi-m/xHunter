@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: xHunter
+Version: 0.1.0
+Requires-Python: >=3.6
+Requires-Dist: scapy
+Requires-Dist: python-nmap
+Requires-Dist: requests
+Dynamic: requires-dist
+Dynamic: requires-python
